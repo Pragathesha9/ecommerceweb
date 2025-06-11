@@ -1,5 +1,4 @@
-# ecommerceweb
-Project Description:
+# ecommerceweb:
 
 This e-commerce platform is a basic online shopping system built using HTML, CSS, and JavaScript. The platform allows users to browse products, add them to a cart, and checkout. It also features user registration and login functionality, enabling users to manage their accounts and track their orders.
 
